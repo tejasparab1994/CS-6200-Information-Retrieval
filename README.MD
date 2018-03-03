@@ -1,0 +1,1 @@
+Coursework as part of my Information Retrieval course at Northeastern. This has been written using python3 and the PyCharm IDE for development.
