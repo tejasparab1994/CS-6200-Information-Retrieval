@@ -1,0 +1,571 @@
+tropical->[['1', 11], ['2', 3]]
+
+cyclone->[['1', 6], ['2', 1]]
+
+a->[['1', 13], ['2', 4]]
+
+is->[['1', 4]]
+
+rapidly->[['1', 1]]
+
+rotating->[['1', 2]]
+
+storm->[['1', 3], ['2', 2]]
+
+system->[['1', 1]]
+
+characterized->[['1', 1]]
+
+by->[['1', 4], ['2', 2]]
+
+low-pressure->[['1', 1]]
+
+center->[['1', 1]]
+
+closed->[['1', 1]]
+
+low-level->[['1', 1]]
+
+atmospheric->[['1', 1]]
+
+circulation->[['1', 2]]
+
+strong->[['1', 2]]
+
+winds->[['1', 4], ['2', 2]]
+
+and->[['1', 13], ['2', 13]]
+
+spiral->[['1', 1]]
+
+arrangement->[['1', 1]]
+
+of->[['1', 12], ['2', 14]]
+
+thunderstorms->[['1', 1]]
+
+that->[['1', 3]]
+
+produce->[['1', 1]]
+
+heavy->[['1', 1]]
+
+rain->[['1', 2]]
+
+depending->[['1', 1]]
+
+on->[['1', 1], ['2', 4]]
+
+its->[['1', 1]]
+
+location->[['1', 1]]
+
+strength->[['1', 1]]
+
+referred->[['1', 2]]
+
+to->[['1', 7], ['2', 2]]
+
+different->[['1', 1]]
+
+names->[['1', 1]]
+
+including->[['1', 1]]
+
+hurricane->[['1', 2], ['2', 6]]
+
+typhoon->[['1', 2]]
+
+cyclonic->[['1', 3]]
+
+depression->[['1', 1]]
+
+simply->[['1', 2]]
+
+occurs->[['1', 2]]
+
+in->[['1', 7], ['2', 9]]
+
+the->[['1', 18], ['2', 18]]
+
+atlantic->[['1', 1], ['2', 2]]
+
+ocean->[['1', 6], ['2', 1]]
+
+northeastern->[['1', 1]]
+
+pacific->[['1', 3]]
+
+northwestern->[['1', 1]]
+
+while->[['1', 1]]
+
+south->[['1', 2]]
+
+or->[['1', 2], ['2', 1]]
+
+indian->[['1', 1]]
+
+comparable->[['1', 1]]
+
+storms->[['1', 2]]
+
+are->[['1', 5]]
+
+as->[['1', 6], ['2', 3]]
+
+refers->[['1', 2]]
+
+geographical->[['1', 1]]
+
+origin->[['1', 1]]
+
+these->[['1', 1]]
+
+systems->[['1', 1]]
+
+which->[['1', 3]]
+
+form->[['1', 3], ['2', 1]]
+
+almost->[['1', 2]]
+
+exclusively->[['1', 1]]
+
+over->[['1', 2], ['2', 2]]
+
+seas->[['1', 1]]
+
+their->[['1', 4]]
+
+moving->[['1', 1]]
+
+circle->[['1', 1]]
+
+whirling->[['1', 1]]
+
+round->[['1', 1]]
+
+central->[['1', 1]]
+
+clear->[['1', 1]]
+
+eye->[['1', 1]]
+
+with->[['1', 2], ['2', 1]]
+
+blowing->[['1', 2]]
+
+counterclockwise->[['1', 1]]
+
+northern->[['1', 1]]
+
+hemisphere->[['1', 2]]
+
+clockwise->[['1', 1]]
+
+southern->[['1', 1]]
+
+opposite->[['1', 1]]
+
+direction->[['1', 1]]
+
+due->[['1', 1]]
+
+coriolis->[['1', 1]]
+
+effect->[['1', 1]]
+
+cyclones->[['1', 3]]
+
+typically->[['1', 2]]
+
+large->[['1', 1]]
+
+bodies->[['1', 1]]
+
+relatively->[['1', 1]]
+
+warm->[['1', 1], ['2', 1]]
+
+water->[['1', 3]]
+
+they->[['1', 2]]
+
+derive->[['1', 1]]
+
+energy->[['1', 2]]
+
+through->[['1', 1]]
+
+evaporation->[['1', 1]]
+
+from->[['1', 3], ['2', 3]]
+
+surface->[['1', 1]]
+
+ultimately->[['1', 1]]
+
+recondenses->[['1', 1]]
+
+into->[['1', 1]]
+
+clouds->[['1', 1]]
+
+when->[['1', 1]]
+
+moist->[['1', 1]]
+
+air->[['1', 2]]
+
+rises->[['1', 1]]
+
+cools->[['1', 1]]
+
+saturation->[['1', 1]]
+
+this->[['1', 1]]
+
+source->[['1', 1]]
+
+differs->[['1', 1]]
+
+mid-latitude->[['1', 1]]
+
+such->[['1', 1]]
+
+noreasters->[['1', 1]]
+
+european->[['1', 1]]
+
+windstorms->[['1', 1]]
+
+fueled->[['1', 1]]
+
+primarily->[['1', 1]]
+
+horizontal->[['1', 1]]
+
+temperature->[['1', 1]]
+
+contrasts->[['1', 1]]
+
+between->[['1', 1]]
+
+100->[['1', 1]]
+
+2->[['1', 1]]
+
+62->[['1', 1]]
+
+1->[['1', 1]]
+
+diameter->[['1', 1]]
+
+result->[['1', 2]]
+
+conservation->[['1', 1]]
+
+angular->[['1', 1]]
+
+momentum->[['1', 1]]
+
+imparted->[['1', 1]]
+
+earths->[['1', 1]]
+
+rotation->[['1', 2]]
+
+flows->[['1', 1]]
+
+inwards->[['1', 1]]
+
+toward->[['1', 1]]
+
+axis->[['1', 1]]
+
+rarely->[['1', 1]]
+
+within->[['1', 1], ['2', 1]]
+
+equator->[['1', 1]]
+
+also->[['1', 1]]
+
+completely->[['1', 1]]
+
+absent->[['1', 1]]
+
+southwestern->[['1', 1]]
+
+quartersphere->[['1', 1]]
+
+mainly->[['1', 1]]
+
+because->[['1', 1]]
+
+shapes->[['1', 1]]
+
+african->[['1', 1]]
+
+american->[['1', 1]]
+
+continents->[['1', 1]]
+
+permit->[['1', 1]]
+
+benguela->[['1', 1]]
+
+humboldt->[['1', 1]]
+
+currents->[['1', 1]]
+
+cover->[['1', 1]]
+
+basins->[['1', 1]]
+
+far->[['1', 1], ['2', 1]]
+
+north->[['1', 1], ['2', 4]]
+
+excessively->[['1', 1]]
+
+cool->[['1', 1]]
+
+out->[['1', 1], ['2', 1]]
+
+isabel->[['2', 6]]
+
+was->[['2', 4]]
+
+costliest->[['2', 1]]
+
+deadliest->[['2', 1]]
+
+strongest->[['2', 1]]
+
+2003->[['2', 1]]
+
+season->[['2', 2]]
+
+ninth->[['2', 1]]
+
+named->[['2', 1]]
+
+fifth->[['2', 1]]
+
+second->[['2', 1]]
+
+major->[['2', 1]]
+
+formed->[['2', 1]]
+
+near->[['2', 1]]
+
+cape->[['2', 1]]
+
+verde->[['2', 1]]
+
+islands->[['2', 1]]
+
+wave->[['2', 1]]
+
+september->[['2', 3]]
+
+6->[['2', 1]]
+
+it->[['2', 3]]
+
+moved->[['2', 1]]
+
+northwestward->[['2', 1]]
+
+an->[['2', 1]]
+
+environment->[['2', 1]]
+
+light->[['2', 1]]
+
+wind->[['2', 1]]
+
+shear->[['2', 1]]
+
+waters->[['2', 1]]
+
+steadily->[['2', 1]]
+
+strengthened->[['2', 1]]
+
+reach->[['2', 1]]
+
+peak->[['2', 1]]
+
+165->[['2', 2]]
+
+mph->[['2', 2]]
+
+265->[['2', 1]]
+
+kmh->[['2', 2]]
+
+11->[['2', 1]]
+
+after->[['2', 1]]
+
+fluctuating->[['2', 1]]
+
+intensity->[['2', 1]]
+
+for->[['2', 3]]
+
+four->[['2', 1]]
+
+days->[['2', 2]]
+
+gradually->[['2', 1]]
+
+weakened->[['2', 2]]
+
+made->[['2', 1]]
+
+landfall->[['2', 1]]
+
+outer->[['2', 2]]
+
+banks->[['2', 1]]
+
+carolina->[['2', 3]]
+
+105->[['2', 1]]
+
+18->[['2', 1]]
+
+quickly->[['2', 1]]
+
+land->[['2', 1]]
+
+became->[['2', 1]]
+
+extratropical->[['2', 1]]
+
+western->[['2', 1]]
+
+pennsylvania->[['2', 1]]
+
+next->[['2', 1]]
+
+day->[['2', 1]]
+
+surge->[['2', 1]]
+
+washed->[['2', 1]]
+
+portion->[['2', 1]]
+
+hatteras->[['2', 1]]
+
+island->[['2', 1]]
+
+what->[['2', 1]]
+
+unofficially->[['2', 1]]
+
+known->[['2', 1]]
+
+inlet->[['2', 1]]
+
+damage->[['2', 4]]
+
+greatest->[['2', 1]]
+
+along->[['2', 2]]
+
+banks,->[['2', 1]]
+
+where->[['2', 1]]
+
+thousands->[['2', 2]]
+
+homes->[['2', 1]]
+
+were->[['2', 2]]
+
+damaged->[['2', 1]]
+
+even->[['2', 1]]
+
+destroyed->[['2', 1]]
+
+worst->[['2', 1]]
+
+effects->[['2', 1]]
+
+occurred->[['2', 2]]
+
+virginia->[['2', 4]]
+
+especially->[['2', 1]]
+
+hampton->[['2', 1]]
+
+roads->[['2', 1]]
+
+area->[['2', 1]]
+
+shores->[['2', 1]]
+
+rivers->[['2', 1]]
+
+west->[['2', 1]]
+
+richmond->[['2', 1]]
+
+washington->[['2', 1]]
+
+dc->[['2', 1]]
+
+reported->[['2', 1]]
+
+most->[['2', 1]]
+
+deaths->[['2', 2]]
+
+about->[['2', 1]]
+
+64->[['2', 1]]
+
+68->[['2', 1]]
+
+electric->[['2', 1]]
+
+service->[['2', 1]]
+
+disrupted->[['2', 1]]
+
+areas->[['2', 2]]
+
+several->[['2', 1]]
+
+some->[['2', 1]]
+
+more->[['2', 1]]
+
+rural->[['2', 1]]
+
+without->[['2', 1]]
+
+electricity->[['2', 1]]
+
+weeks->[['2', 1]]
+
+local->[['2', 1]]
+
+flooding->[['2', 1]]
+
+caused->[['2', 1]]
+
+dollars->[['2', 1]]
+
+
+->[['2', 1]]
+

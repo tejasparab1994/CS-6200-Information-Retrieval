@@ -1,0 +1,51 @@
+query: hurricane isabel damage
+
+query_id Q0 doc_id rank BM25_score system_name
+1 Q0 655 1 7.189382173854424 UniBM25
+1 Q0 656 2 6.760453944013669 UniBM25
+1 Q0 652 3 6.510763574648892 UniBM25
+1 Q0 654 4 6.134351278307959 UniBM25
+1 Q0 657 5 5.6589229096794345 UniBM25
+
+query_id Q0 doc_id rank Lucene_score system_name
+1 Q0 3.txt 1.  score=0.55783373 VSMLucene
+1 Q0 654.txt 2.  score=0.47389787 VSMLucene
+1 Q0 663.txt 3.  score=0.4297262 VSMLucene
+1 Q0 651.txt 4.  score=0.4297262 VSMLucene
+1 Q0 655.txt 5.  score=0.3757651 VSMLucene
+
+For the query hurricane isabel damage it can be seen that the docs retrieved through BM25 algorithm are 'Effects_of_Hurricane_Isabel_in_Pennsylvania','Effects_of_Hurricane_Isabel_in_New_Jersey','Effects_of_Hurricane_Isabel_in_North_Carolina', 'Effects_of_Hurricane_Isabel_in_Delaware', 'Effects_of_Hurricane_Isabel_in_New_York_and_New_England'. It can be noticed that all the documents are related to the effect that the hurricane Isabel had on certain places. 
+For the same query in Lucene, the highest ranked document is Hurricane Isabel itself. The overlap can be seen for 2 of the 5 documents retrieved by both the models, wherein even Lucene has 'Effects_of_Hurricane_Isabel_in_Delaware' as well as 'Effects_of_Hurricane_Isabel_in_Pennsylvania'.
+
+Let us consider another example of a query to understand varied ranking of documents by both the algorithms.
+
+query: forecast models
+
+query_id Q0 doc_id rank BM25_score system_name
+2 Q0 278 1 4.936153214521932 UniBM25
+2 Q0 473 2 4.811598748308005 UniBM25
+2 Q0 408 3 4.744383670291083 UniBM25
+2 Q0 986 4 4.605863400137813 UniBM25
+2 Q0 425 5 4.550422792670754 UniBM25
+
+query_id Q0 doc_id rank Lucene_score system_name
+2 Q0 278.txt 1.  score=0.5728788 VSMLucene
+2 Q0 277.txt 2.  score=0.43879086 VSMLucene
+2 Q0 408.txt 3.  score=0.38878983 VSMLucene
+2 Q0 119.txt 4.  score=0.33994606 VSMLucene
+2 Q0 83.txt 5.  score=0.3160914 VSMLucene
+
+For the query forecast models it can be seen that the top ranked document (Tropical_cyclone_prediction_model)is the same for both the algorithms. The other document that overlaps for both the algorithms is 'History_of_Atlantic_tropical_cyclone_warnings'. Now, let us investigate the lucene scoring model. 
+
+Lucene takes the Boolean model, TF/IDF and the vector space model and combines them into a single efficient package that collects matching documents and scores them. Since the Lucene implements the boolean model it checks for whether the document consists of either term or all. Further the Lucene's Practical scoring functions starts off from boolean model, the documents approved by the Boolean Model are then further sent to Vector space model. Lucene refines the VSM score and adds its own few functionalities to it. coord-factor(q,d), queryNorm(q). QueryNorm is the function responsible for the normalized scores we see for the outputs through the Lucene implementation since the BM25 algorithm doesn't do any such thing. The other modification,query coordination factor, which is used to reward documents that contain higher percentage of query terms. The more query terms that appear in the document, better match the document is for the query. 
+
+The coordination factor multiplies the score by the no. of matching terms in the document and divides it by the total no. of terms in the query. 
+
+Hence, Consider, Document with hurricane -> SCORE: 1.5*1/3 = 0.5
+Document with hurricane isabel -> score: 3.0*2/3 =2.0
+Document with hurricane isabel damage -> score: 4.5*3/3 =4.5
+
+Hence, because of this the document that contains all the terms becomes more relevant than the document containing just two of them.
+
+
+Since the scoring systems for both the algorithms varies so much, the documents retrieved by the two tasks are different.

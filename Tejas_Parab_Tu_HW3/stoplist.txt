@@ -1,0 +1,39 @@
+1)the
+2)of
+3)and
+4)in
+5)to
+6)a
+7)is
+8)as
+9)for
+10)on
+11)by
+12)was
+13)with
+14)that
+15)from
+16)are
+17)it
+18)at
+19)or
+20)which
+21)were
+22)an
+23)be
+24)this
+25)its
+26)also
+27)has
+28)other
+29)new
+30)more
+31)have
+
+are certain words that could be added to the stop list.Stop words are defined as: In computing, stop words are words which are filtered out before or after processing of natural language data (text) in order to improve performance.
+	The words mentioned above appear in nearly all of the documents that are part of the corpus. These words have a very high term frequency and in order to improve the performance of the indexer these words could be added to the stop list.
+	On adding them into the stop list, the indexer would ignore these words and won't compute over them thus improving the performance.
+	The cut-off value was based on the fact that the term 'hurricane' which is a relevant term since our corpus is based around the same topic, the words having frequency more than that, such as the words mentioned above which more or less just serve the purpose of conjunction have been selected.
+	Hence the cut-off value could be considered to be 2699. Although there are words which could still be added to stop list under this value, but then we would run the risk of losing relevant words from the indexing process.
+
+

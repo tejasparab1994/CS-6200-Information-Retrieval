@@ -1,0 +1,1018 @@
+('tropical', 'cyclone')->[['1', 17], ['2', 4]]
+
+('cyclone', 'a')->[['1', 19], ['2', 5]]
+
+('a', 'tropical')->[['1', 24], ['2', 7]]
+
+('cyclone', 'is')->[['1', 10]]
+
+('is', 'a')->[['1', 17]]
+
+('a', 'rapidly')->[['1', 14]]
+
+('rapidly', 'rotating')->[['1', 3]]
+
+('rotating', 'storm')->[['1', 5]]
+
+('storm', 'system')->[['1', 4]]
+
+('system', 'characterized')->[['1', 2]]
+
+('characterized', 'by')->[['1', 5]]
+
+('by', 'a')->[['1', 17], ['2', 6]]
+
+('a', 'low-pressure')->[['1', 14]]
+
+('low-pressure', 'center')->[['1', 2]]
+
+('center', 'a')->[['1', 14]]
+
+('a', 'closed')->[['1', 14]]
+
+('closed', 'low-level')->[['1', 2]]
+
+('low-level', 'atmospheric')->[['1', 2]]
+
+('atmospheric', 'circulation')->[['1', 3]]
+
+('circulation', 'strong')->[['1', 4]]
+
+('strong', 'winds')->[['1', 6]]
+
+('winds', 'and')->[['1', 17]]
+
+('and', 'a')->[['1', 26]]
+
+('a', 'spiral')->[['1', 14]]
+
+('spiral', 'arrangement')->[['1', 2]]
+
+('arrangement', 'of')->[['1', 13]]
+
+('of', 'thunderstorms')->[['1', 13]]
+
+('thunderstorms', 'that')->[['1', 4]]
+
+('that', 'produce')->[['1', 4]]
+
+('produce', 'heavy')->[['1', 2]]
+
+('heavy', 'rain')->[['1', 3]]
+
+('rain', 'depending')->[['1', 3]]
+
+('depending', 'on')->[['1', 2]]
+
+('on', 'its')->[['1', 2]]
+
+('its', 'location')->[['1', 2]]
+
+('location', 'and')->[['1', 14]]
+
+('and', 'strength')->[['1', 14]]
+
+('strength', 'a')->[['1', 14]]
+
+('is', 'referred')->[['1', 6]]
+
+('referred', 'to')->[['1', 9]]
+
+('to', 'by')->[['1', 11]]
+
+('by', 'different')->[['1', 5]]
+
+('different', 'names')->[['1', 2]]
+
+('names', 'including')->[['1', 2]]
+
+('including', 'hurricane')->[['1', 3]]
+
+('hurricane', 'typhoon')->[['1', 4]]
+
+('typhoon', 'tropical')->[['1', 13]]
+
+('tropical', 'storm')->[['1', 14]]
+
+('storm', 'cyclonic')->[['1', 6]]
+
+('cyclonic', 'storm')->[['1', 6]]
+
+('storm', 'tropical')->[['1', 14]]
+
+('tropical', 'depression')->[['1', 12]]
+
+('depression', 'and')->[['1', 14]]
+
+('and', 'simply')->[['1', 15]]
+
+('simply', 'cyclone')->[['1', 8]]
+
+('a', 'hurricane')->[['1', 15], ['2', 10]]
+
+('hurricane', 'is')->[['1', 6]]
+
+('cyclone', 'that')->[['1', 9]]
+
+('that', 'occurs')->[['1', 5]]
+
+('occurs', 'in')->[['1', 9]]
+
+('in', 'the')->[['1', 25], ['2', 27]]
+
+('the', 'atlantic')->[['1', 19]]
+
+('atlantic', 'ocean')->[['1', 7], ['2', 3]]
+
+('ocean', 'and')->[['1', 19]]
+
+('and', 'northeastern')->[['1', 14]]
+
+('northeastern', 'pacific')->[['1', 4]]
+
+('pacific', 'ocean')->[['1', 9]]
+
+('a', 'typhoon')->[['1', 15]]
+
+('typhoon', 'occurs')->[['1', 4]]
+
+('the', 'northwestern')->[['1', 19]]
+
+('northwestern', 'pacific')->[['1', 4]]
+
+('ocean', 'while')->[['1', 7]]
+
+('while', 'in')->[['1', 8]]
+
+('the', 'south')->[['1', 20]]
+
+('south', 'pacific')->[['1', 5]]
+
+('pacific', 'or')->[['1', 5]]
+
+('or', 'indian')->[['1', 3]]
+
+('indian', 'ocean')->[['1', 7]]
+
+('ocean', 'comparable')->[['1', 7]]
+
+('comparable', 'storms')->[['1', 3]]
+
+('storms', 'are')->[['1', 7]]
+
+('are', 'referred')->[['1', 7]]
+
+('to', 'simply')->[['1', 9]]
+
+('simply', 'as')->[['1', 8]]
+
+('as', 'or')->[['1', 8]]
+
+('or', 'cyclonic')->[['1', 5]]
+
+('cyclonic', 'refers')->[['1', 5]]
+
+('refers', 'to')->[['1', 9]]
+
+('to', 'the')->[['1', 25]]
+
+('the', 'geographical')->[['1', 19]]
+
+('geographical', 'origin')->[['1', 2]]
+
+('origin', 'of')->[['1', 13]]
+
+('of', 'these')->[['1', 13]]
+
+('these', 'systems')->[['1', 2]]
+
+('systems', 'which')->[['1', 4]]
+
+('which', 'form')->[['1', 6]]
+
+('form', 'almost')->[['1', 5]]
+
+('almost', 'exclusively')->[['1', 3]]
+
+('exclusively', 'over')->[['1', 3]]
+
+('over', 'tropical')->[['1', 13]]
+
+('tropical', 'seas')->[['1', 12]]
+
+('seas', 'refers')->[['1', 3]]
+
+('to', 'their')->[['1', 11]]
+
+('their', 'winds')->[['1', 8]]
+
+('winds', 'moving')->[['1', 5]]
+
+('moving', 'in')->[['1', 8]]
+
+('in', 'a')->[['1', 20]]
+
+('a', 'circle')->[['1', 14]]
+
+('circle', 'whirling')->[['1', 2]]
+
+('whirling', 'round')->[['1', 2]]
+
+('round', 'their')->[['1', 5]]
+
+('their', 'central')->[['1', 5]]
+
+('central', 'clear')->[['1', 2]]
+
+('clear', 'eye')->[['1', 2]]
+
+('eye', 'with')->[['1', 3]]
+
+('with', 'their')->[['1', 6]]
+
+('winds', 'blowing')->[['1', 6]]
+
+('blowing', 'counterclockwise')->[['1', 3]]
+
+('counterclockwise', 'in')->[['1', 8]]
+
+('the', 'northern')->[['1', 19]]
+
+('northern', 'hemisphere')->[['1', 3]]
+
+('hemisphere', 'and')->[['1', 15]]
+
+('and', 'blowing')->[['1', 15]]
+
+('blowing', 'clockwise')->[['1', 3]]
+
+('clockwise', 'in')->[['1', 8]]
+
+('the', 'southern')->[['1', 19]]
+
+('southern', 'hemisphere')->[['1', 3]]
+
+('hemisphere', 'the')->[['1', 20]]
+
+('the', 'opposite')->[['1', 19]]
+
+('opposite', 'direction')->[['1', 2]]
+
+('direction', 'of')->[['1', 13]]
+
+('of', 'circulation')->[['1', 14]]
+
+('circulation', 'is')->[['1', 6]]
+
+('is', 'due')->[['1', 5]]
+
+('due', 'to')->[['1', 8]]
+
+('the', 'coriolis')->[['1', 19]]
+
+('coriolis', 'effect')->[['1', 2]]
+
+('effect', 'tropical')->[['1', 12]]
+
+('tropical', 'cyclones')->[['1', 14]]
+
+('cyclones', 'typically')->[['1', 5]]
+
+('typically', 'form')->[['1', 5]]
+
+('form', 'over')->[['1', 5]]
+
+('over', 'large')->[['1', 3]]
+
+('large', 'bodies')->[['1', 2]]
+
+('bodies', 'of')->[['1', 13]]
+
+('of', 'relatively')->[['1', 13]]
+
+('relatively', 'warm')->[['1', 2]]
+
+('warm', 'water')->[['1', 4]]
+
+('water', 'they')->[['1', 5]]
+
+('they', 'derive')->[['1', 3]]
+
+('derive', 'their')->[['1', 5]]
+
+('their', 'energy')->[['1', 6]]
+
+('energy', 'through')->[['1', 3]]
+
+('through', 'the')->[['1', 19]]
+
+('the', 'evaporation')->[['1', 19]]
+
+('evaporation', 'of')->[['1', 13]]
+
+('of', 'water')->[['1', 15]]
+
+('water', 'from')->[['1', 6]]
+
+('from', 'the')->[['1', 21], ['2', 21]]
+
+('the', 'ocean')->[['1', 24]]
+
+('ocean', 'surface')->[['1', 7]]
+
+('surface', 'which')->[['1', 4]]
+
+('which', 'ultimately')->[['1', 4]]
+
+('ultimately', 'recondenses')->[['1', 2]]
+
+('recondenses', 'into')->[['1', 2]]
+
+('into', 'clouds')->[['1', 2]]
+
+('clouds', 'and')->[['1', 14]]
+
+('and', 'rain')->[['1', 15]]
+
+('rain', 'when')->[['1', 3]]
+
+('when', 'moist')->[['1', 2]]
+
+('moist', 'air')->[['1', 3]]
+
+('air', 'rises')->[['1', 3]]
+
+('rises', 'and')->[['1', 14]]
+
+('and', 'cools')->[['1', 14]]
+
+('cools', 'to')->[['1', 8]]
+
+('to', 'saturation')->[['1', 8]]
+
+('saturation', 'this')->[['1', 2]]
+
+('this', 'energy')->[['1', 3]]
+
+('energy', 'source')->[['1', 3]]
+
+('source', 'differs')->[['1', 2]]
+
+('differs', 'from')->[['1', 4]]
+
+('from', 'that')->[['1', 6]]
+
+('that', 'of')->[['1', 15]]
+
+('of', 'mid-latitude')->[['1', 13]]
+
+('mid-latitude', 'cyclonic')->[['1', 4]]
+
+('cyclonic', 'storms')->[['1', 5]]
+
+('storms', 'such')->[['1', 3]]
+
+('such', 'as')->[['1', 7]]
+
+('as', 'noreasters')->[['1', 7]]
+
+('noreasters', 'and')->[['1', 14]]
+
+('and', 'european')->[['1', 14]]
+
+('european', 'windstorms')->[['1', 2]]
+
+('windstorms', 'which')->[['1', 4]]
+
+('which', 'are')->[['1', 8]]
+
+('are', 'fueled')->[['1', 6]]
+
+('fueled', 'primarily')->[['1', 2]]
+
+('primarily', 'by')->[['1', 5]]
+
+('by', 'horizontal')->[['1', 5]]
+
+('horizontal', 'temperature')->[['1', 2]]
+
+('temperature', 'contrasts')->[['1', 2]]
+
+('contrasts', 'tropical')->[['1', 12]]
+
+('cyclones', 'are')->[['1', 8]]
+
+('are', 'typically')->[['1', 7]]
+
+('typically', 'between')->[['1', 3]]
+
+('between', '100')->[['1', 2]]
+
+('100', 'and')->[['1', 14]]
+
+('and', '2')->[['1', 14]]
+
+('2', '62')->[['1', 2]]
+
+('62', 'and')->[['1', 14]]
+
+('and', '1')->[['1', 14]]
+
+('1', 'in')->[['1', 8]]
+
+('in', 'diameter')->[['1', 8]]
+
+('diameter', 'the')->[['1', 19]]
+
+('the', 'strong')->[['1', 20]]
+
+('strong', 'rotating')->[['1', 4]]
+
+('rotating', 'winds')->[['1', 6]]
+
+('winds', 'of')->[['1', 16], ['2', 16]]
+
+('of', 'a')->[['1', 25]]
+
+('cyclone', 'are')->[['1', 11]]
+
+('are', 'a')->[['1', 18]]
+
+('a', 'result')->[['1', 15]]
+
+('result', 'of')->[['1', 14]]
+
+('of', 'the')->[['1', 30], ['2', 32]]
+
+('the', 'conservation')->[['1', 19]]
+
+('conservation', 'of')->[['1', 13]]
+
+('of', 'angular')->[['1', 13]]
+
+('angular', 'momentum')->[['1', 2]]
+
+('momentum', 'imparted')->[['1', 2]]
+
+('imparted', 'by')->[['1', 5]]
+
+('by', 'the')->[['1', 22]]
+
+('the', 'earths')->[['1', 19]]
+
+('earths', 'rotation')->[['1', 3]]
+
+('rotation', 'as')->[['1', 8]]
+
+('as', 'air')->[['1', 8]]
+
+('air', 'flows')->[['1', 3]]
+
+('flows', 'inwards')->[['1', 2]]
+
+('inwards', 'toward')->[['1', 2]]
+
+('toward', 'the')->[['1', 19]]
+
+('the', 'axis')->[['1', 19]]
+
+('axis', 'of')->[['1', 13]]
+
+('of', 'rotation')->[['1', 14]]
+
+('as', 'a')->[['1', 19]]
+
+('result', 'they')->[['1', 4]]
+
+('they', 'rarely')->[['1', 3]]
+
+('rarely', 'form')->[['1', 4]]
+
+('form', 'within')->[['1', 4]]
+
+('within', 'of')->[['1', 13]]
+
+('the', 'equator')->[['1', 19]]
+
+('equator', 'tropical')->[['1', 12]]
+
+('are', 'also')->[['1', 6]]
+
+('also', 'almost')->[['1', 3]]
+
+('almost', 'completely')->[['1', 3]]
+
+('completely', 'absent')->[['1', 2]]
+
+('absent', 'from')->[['1', 4]]
+
+('from', 'southwestern')->[['1', 4]]
+
+('southwestern', 'quartersphere')->[['1', 2]]
+
+('quartersphere', 'mainly')->[['1', 2]]
+
+('mainly', 'because')->[['1', 2]]
+
+('because', 'the')->[['1', 19]]
+
+('the', 'shapes')->[['1', 19]]
+
+('shapes', 'of')->[['1', 13]]
+
+('the', 'african')->[['1', 19]]
+
+('african', 'and')->[['1', 14]]
+
+('and', 'south')->[['1', 15]]
+
+('south', 'american')->[['1', 3]]
+
+('american', 'continents')->[['1', 2]]
+
+('continents', 'permit')->[['1', 2]]
+
+('permit', 'the')->[['1', 19]]
+
+('the', 'benguela')->[['1', 19]]
+
+('benguela', 'and')->[['1', 14]]
+
+('and', 'humboldt')->[['1', 14]]
+
+('humboldt', 'currents')->[['1', 2]]
+
+('currents', 'to')->[['1', 8]]
+
+('to', 'cover')->[['1', 8]]
+
+('cover', 'ocean')->[['1', 7]]
+
+('ocean', 'basins')->[['1', 7]]
+
+('basins', 'as')->[['1', 7]]
+
+('as', 'far')->[['1', 7], ['2', 4]]
+
+('far', 'north')->[['1', 2]]
+
+('north', 'as')->[['1', 7], ['2', 7]]
+
+('as', 'with')->[['1', 8]]
+
+('with', 'excessively')->[['1', 3]]
+
+('excessively', 'cool')->[['1', 2]]
+
+('cool', 'water')->[['1', 4]]
+
+('water', 'out')->[['1', 4]]
+
+('hurricane', 'isabel')->[['2', 12]]
+
+('isabel', 'was')->[['2', 10]]
+
+('was', 'the')->[['2', 22]]
+
+('the', 'costliest')->[['2', 19]]
+
+('costliest', 'deadliest')->[['2', 2]]
+
+('deadliest', 'and')->[['2', 14]]
+
+('and', 'strongest')->[['2', 14]]
+
+('strongest', 'hurricane')->[['2', 7]]
+
+('hurricane', 'in')->[['2', 15]]
+
+('the', '2003')->[['2', 19]]
+
+('2003', 'atlantic')->[['2', 3]]
+
+('atlantic', 'hurricane')->[['2', 8]]
+
+('hurricane', 'season')->[['2', 8]]
+
+('season', 'the')->[['2', 20]]
+
+('the', 'ninth')->[['2', 19]]
+
+('ninth', 'named')->[['2', 2]]
+
+('named', 'storm')->[['2', 3]]
+
+('storm', 'fifth')->[['2', 3]]
+
+('fifth', 'hurricane')->[['2', 7]]
+
+('hurricane', 'and')->[['2', 19]]
+
+('and', 'second')->[['2', 14]]
+
+('second', 'major')->[['2', 2]]
+
+('major', 'hurricane')->[['2', 7]]
+
+('hurricane', 'of')->[['2', 20]]
+
+('the', 'season')->[['2', 20]]
+
+('season', 'isabel')->[['2', 8]]
+
+('isabel', 'formed')->[['2', 7]]
+
+('formed', 'near')->[['2', 2]]
+
+('near', 'the')->[['2', 19]]
+
+('the', 'cape')->[['2', 19]]
+
+('cape', 'verde')->[['2', 2]]
+
+('verde', 'islands')->[['2', 2]]
+
+('islands', 'from')->[['2', 4]]
+
+('from', 'a')->[['2', 7]]
+
+('tropical', 'wave')->[['2', 4]]
+
+('wave', 'on')->[['2', 5]]
+
+('on', 'september')->[['2', 7]]
+
+('september', '6')->[['2', 4]]
+
+('6', 'in')->[['2', 10]]
+
+('the', 'tropical')->[['2', 21]]
+
+('tropical', 'atlantic')->[['2', 5]]
+
+('ocean', 'it')->[['2', 4]]
+
+('it', 'moved')->[['2', 4]]
+
+('moved', 'northwestward')->[['2', 2]]
+
+('northwestward', 'and')->[['2', 14]]
+
+('and', 'within')->[['2', 14]]
+
+('within', 'an')->[['2', 2]]
+
+('an', 'environment')->[['2', 2]]
+
+('environment', 'of')->[['2', 15]]
+
+('of', 'light')->[['2', 15]]
+
+('light', 'wind')->[['2', 2]]
+
+('wind', 'shear')->[['2', 2]]
+
+('shear', 'and')->[['2', 14]]
+
+('and', 'warm')->[['2', 14]]
+
+('warm', 'waters')->[['2', 2]]
+
+('waters', 'it')->[['2', 4]]
+
+('it', 'steadily')->[['2', 4]]
+
+('steadily', 'strengthened')->[['2', 2]]
+
+('strengthened', 'to')->[['2', 3]]
+
+('to', 'reach')->[['2', 3]]
+
+('reach', 'peak')->[['2', 2]]
+
+('peak', 'winds')->[['2', 3]]
+
+('of', '165')->[['2', 16]]
+
+('165', 'mph')->[['2', 4]]
+
+('mph', '265')->[['2', 3]]
+
+('265', 'kmh')->[['2', 3]]
+
+('kmh', 'on')->[['2', 6]]
+
+('september', '11')->[['2', 4]]
+
+('11', 'after')->[['2', 2]]
+
+('after', 'fluctuating')->[['2', 2]]
+
+('fluctuating', 'in')->[['2', 10]]
+
+('in', 'intensity')->[['2', 10]]
+
+('intensity', 'for')->[['2', 4]]
+
+('for', 'four')->[['2', 4]]
+
+('four', 'days')->[['2', 3]]
+
+('days', 'isabel')->[['2', 8]]
+
+('isabel', 'gradually')->[['2', 7]]
+
+('gradually', 'weakened')->[['2', 3]]
+
+('weakened', 'and')->[['2', 15]]
+
+('and', 'made')->[['2', 14]]
+
+('made', 'landfall')->[['2', 2]]
+
+('landfall', 'on')->[['2', 5]]
+
+('on', 'the')->[['2', 22]]
+
+('the', 'outer')->[['2', 20]]
+
+('outer', 'banks')->[['2', 3]]
+
+('banks', 'of')->[['2', 15]]
+
+('of', 'north')->[['2', 18]]
+
+('north', 'carolina')->[['2', 7]]
+
+('carolina', 'with')->[['2', 4]]
+
+('with', 'winds')->[['2', 3]]
+
+('of', '105')->[['2', 15]]
+
+('105', 'mph')->[['2', 3]]
+
+('mph', '165')->[['2', 4]]
+
+('165', 'kmh')->[['2', 4]]
+
+('september', '18')->[['2', 4]]
+
+('18', 'it')->[['2', 4]]
+
+('it', 'quickly')->[['2', 4]]
+
+('quickly', 'weakened')->[['2', 3]]
+
+('weakened', 'over')->[['2', 4]]
+
+('over', 'land')->[['2', 3]]
+
+('land', 'and')->[['2', 14]]
+
+('and', 'became')->[['2', 14]]
+
+('became', 'extratropical')->[['2', 2]]
+
+('extratropical', 'over')->[['2', 3]]
+
+('over', 'western')->[['2', 3]]
+
+('western', 'pennsylvania')->[['2', 2]]
+
+('pennsylvania', 'the')->[['2', 19]]
+
+('the', 'next')->[['2', 19]]
+
+('next', 'day')->[['2', 2]]
+
+('day', 'in')->[['2', 10]]
+
+('in', 'north')->[['2', 13]]
+
+('carolina', 'the')->[['2', 21]]
+
+('the', 'storm')->[['2', 20]]
+
+('storm', 'surge')->[['2', 3]]
+
+('surge', 'from')->[['2', 4]]
+
+('from', 'isabel')->[['2', 9]]
+
+('isabel', 'washed')->[['2', 7]]
+
+('washed', 'out')->[['2', 2]]
+
+('out', 'a')->[['2', 5]]
+
+('a', 'portion')->[['2', 5]]
+
+('portion', 'of')->[['2', 15]]
+
+('of', 'hatteras')->[['2', 15]]
+
+('hatteras', 'island')->[['2', 2]]
+
+('island', 'to')->[['2', 3]]
+
+('to', 'form')->[['2', 3]]
+
+('form', 'what')->[['2', 2]]
+
+('what', 'was')->[['2', 5]]
+
+('was', 'unofficially')->[['2', 5]]
+
+('unofficially', 'known')->[['2', 2]]
+
+('known', 'as')->[['2', 4]]
+
+('as', 'isabel')->[['2', 9]]
+
+('isabel', 'inlet')->[['2', 7]]
+
+('inlet', 'damage')->[['2', 5]]
+
+('damage', 'was')->[['2', 8]]
+
+('was', 'greatest')->[['2', 5]]
+
+('greatest', 'along')->[['2', 3]]
+
+('along', 'the')->[['2', 20]]
+
+('outer', 'banks,')->[['2', 3]]
+
+('banks,', 'where')->[['2', 2]]
+
+('where', 'thousands')->[['2', 3]]
+
+('thousands', 'of')->[['2', 16]]
+
+('of', 'homes')->[['2', 15]]
+
+('homes', 'by')->[['2', 3]]
+
+('by', 'were')->[['2', 4]]
+
+('were', 'damaged')->[['2', 3]]
+
+('damaged', 'or')->[['2', 2]]
+
+('or', 'even')->[['2', 2]]
+
+('even', 'destroyed')->[['2', 2]]
+
+('destroyed', 'the')->[['2', 19]]
+
+('the', 'worst')->[['2', 19]]
+
+('worst', 'of')->[['2', 15]]
+
+('the', 'effects')->[['2', 19]]
+
+('effects', 'of')->[['2', 15]]
+
+('of', 'isabel')->[['2', 20]]
+
+('isabel', 'occurred')->[['2', 8]]
+
+('occurred', 'in')->[['2', 11]]
+
+('in', 'virginia')->[['2', 13]]
+
+('virginia', 'especially')->[['2', 5]]
+
+('especially', 'in')->[['2', 10]]
+
+('the', 'hampton')->[['2', 19]]
+
+('hampton', 'roads')->[['2', 2]]
+
+('roads', 'area')->[['2', 2]]
+
+('area', 'and')->[['2', 14]]
+
+('and', 'along')->[['2', 15]]
+
+('the', 'shores')->[['2', 19]]
+
+('shores', 'of')->[['2', 15]]
+
+('of', 'rivers')->[['2', 15]]
+
+('rivers', 'as')->[['2', 4]]
+
+('far', 'west')->[['2', 2]]
+
+('west', 'and')->[['2', 14]]
+
+('and', 'north')->[['2', 17]]
+
+('as', 'richmond')->[['2', 4]]
+
+('richmond', 'and')->[['2', 14]]
+
+('and', 'washington')->[['2', 14]]
+
+('washington', 'dc')->[['2', 2]]
+
+('dc', 'virginia')->[['2', 5]]
+
+('virginia', 'reported')->[['2', 5]]
+
+('reported', 'the')->[['2', 19]]
+
+('the', 'most')->[['2', 19]]
+
+('most', 'deaths')->[['2', 3]]
+
+('deaths', 'and')->[['2', 15]]
+
+('and', 'damage')->[['2', 17]]
+
+('damage', 'from')->[['2', 7]]
+
+('the', 'hurricane')->[['2', 24]]
+
+('hurricane', 'about')->[['2', 7]]
+
+('about', '64')->[['2', 2]]
+
+('64', 'of')->[['2', 15]]
+
+('the', 'damage')->[['2', 22]]
+
+('damage', 'and')->[['2', 17]]
+
+('and', '68')->[['2', 14]]
+
+('68', 'of')->[['2', 15]]
+
+('the', 'deaths')->[['2', 20]]
+
+('deaths', 'occurred')->[['2', 4]]
+
+('carolina', 'and')->[['2', 16]]
+
+('and', 'virginia')->[['2', 17]]
+
+('virginia', 'electric')->[['2', 5]]
+
+('electric', 'service')->[['2', 2]]
+
+('service', 'was')->[['2', 5]]
+
+('was', 'disrupted')->[['2', 5]]
+
+('disrupted', 'in')->[['2', 10]]
+
+('in', 'areas')->[['2', 11]]
+
+('areas', 'of')->[['2', 16]]
+
+('of', 'virginia')->[['2', 18]]
+
+('virginia', 'for')->[['2', 7]]
+
+('for', 'several')->[['2', 4]]
+
+('several', 'days')->[['2', 3]]
+
+('days', 'some')->[['2', 3]]
+
+('some', 'more')->[['2', 2]]
+
+('more', 'rural')->[['2', 2]]
+
+('rural', 'areas')->[['2', 3]]
+
+('areas', 'were')->[['2', 4]]
+
+('were', 'without')->[['2', 3]]
+
+('without', 'electricity')->[['2', 2]]
+
+('electricity', 'for')->[['2', 4]]
+
+('for', 'weeks')->[['2', 4]]
+
+('weeks', 'and')->[['2', 14]]
+
+('and', 'local')->[['2', 14]]
+
+('local', 'flooding')->[['2', 2]]
+
+('flooding', 'caused')->[['2', 2]]
+
+('caused', 'thousands')->[['2', 3]]
+
+('of', 'dollars')->[['2', 15]]
+
+('dollars', 'in')->[['2', 10]]
+
+('in', 'damage')->[['2', 13]]
+
+('damage', '\n')->[['2', 5]]
+

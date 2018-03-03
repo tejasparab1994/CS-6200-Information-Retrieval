@@ -1,0 +1,30 @@
+G2_DFS_TOP_10
+('International_Standard_Book_Number', 0.06710022502959627)
+('Canada', 0.03404346206715784)
+('Wayback_Machine', 0.022799022659995963)
+('Digital_object_identifier', 0.019048928783057743)
+('Gulf_of_Mexico', 0.01868543203581097)
+('Pacific_Ocean', 0.018260454616107917)
+('Great_Plains', 0.016783316071575814)
+('China', 0.01658158135741522)
+('Precipitation_(meteorology)', 0.012917630969282848)
+('Precipitation', 0.012176360632546733)
+
+G1_BFS_TOP_10
+('International_Standard_Book_Number', 0.04266005173103122)
+('Digital_object_identifier', 0.0351283831726794)
+('International_Standard_Serial_Number', 0.027637285070309)
+('National_Diet_Library', 0.01857508684027347)
+('Bibcode', 0.01629472788359975)
+('PubMed_Identifier', 0.01320530319645849)
+('Canada', 0.012946090133543302)
+('World_War_II', 0.012911494394370492)
+('OCLC', 0.01161316895715733)
+('Japan', 0.01126838816087309)
+
+
+	As it can be noticed throught the above mentioned topics, we see that most of these topics are quiet mundane, i.e., they are part of our day to day communications. These topics are some of which appear the most commonly. Consider International Standard Book Number or ISBN, this is present on every book in the world, not just today but any book that has ever been written has its own unique ISBN. So any article on a book or the author would result in this link to be present on his/her or the books page itself.
+There are other instances too, such as Canada which appears in both, the DFS as well as BFS. It can be seen that not just Canada, but also Japan, China and even Gulf of Mexico. These can be seen to be connected to each other. Any article referring to Canada would have the American continent link available with it too on the page. So, since Gulf of Mexico is also a part of this continent, the link may redirect it to Gulf of Mexico. Similarly for Great plains. Many of the links are related to in and around the North American Continent. Showing signs that maybe they point to each other.
+	Similarly, for Japan and China, along with World War II. Japan being in close proximity to China and also sharing the same geographical region, these countries have links to each other. They even share history with each other. There are 33 instances where China is referred on the Japan Wikipedia page, and 26 instances where Japan is referred on the China Wikipedia page. This shows how much of an effect the two had on each others page ranking. Any article that has China has the possibility that it may also refer Japan in it due to their shared history.
+	Meteorology is a branch of atmospheric sciences, as it can be seen again that any weather related page would have this page as a link in it. Since this being a very generic page. Many weather related issues, regarding heavy rainfall, flooding, storm or global warming would refer to the meteorology page.
+	It can be noticed from the top 10 pages of both the sets that all the topics are very general and not specific as such. They do not talk about technical stuff but rather things that could pop up in daily conversations. Such links seem to have a higher pagerank since they naturally occur in more number of pages due to their relevance in day to day lives of people.
